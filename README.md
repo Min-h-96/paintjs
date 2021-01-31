@@ -1,2 +1,2 @@
 # paintjs
-VanilaJS로 만든 그림판
+VanilaJS로 간단한 그림판 
